@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @PL4GUe1337 (I couldn't think about a better name when creating my acc) or also known as ᴘʟ4ɢ_ 
+- 👋 Hi, I’m ᴘʟ4ɢ_ 
 - 📄 I’m a dev currently working in "ᴘʟ4ɢ_'s ToCustomByYourself Pack", a Counter Strike Source Pack of Programs and Files to customize your game! 😁
 - 📫 You can contact me by Discord: ᴘʟ4ɢ_#5026
