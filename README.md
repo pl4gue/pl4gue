@@ -1,3 +1,3 @@
 - 👋 Hi, I’m ᴘʟ4ɢ_ 
-- 📄 I’m a dev currently working in "ᴘʟ4ɢ_'s ToCustomByYourself Pack", a Counter Strike Source Pack of Programs and Files to customize your game! 😁
+- 📄 I’m currently working on my github.io page.
 - 📫 You can contact me by Discord: ᴘʟ4ɢ_#5026
