@@ -1,6 +1,6 @@
 ## <div align="center">👋 Yo, I’m ᴘʟ4ɢ_ </div>
 
-##### Sou um estudante de programação que ama técnologia!
+##### > Putting some Lorem Ipsum in my code.
 
 - 🎂 16 Years Old
 - ❤️ Full-Stack Developer.
