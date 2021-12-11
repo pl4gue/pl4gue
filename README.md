@@ -33,8 +33,8 @@ Fique a vontade para ver alguns [projetos]() pessoais que eu desenvolvi em meu t
   
 <div style="display: inline_block;" align="center">
   <a href="https://github.com/pl4g">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&theme=github_dark&include_all_commits=true&border_color=1d63cf"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&theme=github_dark&border_color=1d63cf"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&theme=github_dark&include_all_commits=true&border_color=1d63cf"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&theme=github_dark&border_color=1d63cf"/>
  </a>
 </div>
   
