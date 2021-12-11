@@ -27,7 +27,7 @@
  
 <div align="center" style="display: inline_block;">    
  <kbd align="center">
-      <kbd> - KNOWLEDGE - </kbd>
+      <kbd> - EXPERIENCE - </kbd>
       <br />
       <br />
       <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
