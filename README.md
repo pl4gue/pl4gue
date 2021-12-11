@@ -8,7 +8,7 @@ Me chamo Vinícius Luciano Cardoso, tenho 16 Anos.
 Estou cursando meu 2º ano do Ensino Médio Técnico Integrado em Cedup Diomicio Freitas, Tubarão, Santa Catarina (Minha cidade natal)
 Adoro tecnologia no geral, mas programação é onde eu me destaco. Sou aberto a aprender e criar todo tipo de coisas, por exemplo: *sites, aplicativos desktop* e *mobile, jogos eletronicos*, etc.
 
-Fique a vontade para ver alguns [projetos]() pessoais que eu desenvolvi em meu tempo livre. <a href="nothing important/secret.md">&#10240;</a>
+Fique a vontade para ver alguns [projetos]() pessoais que eu desenvolvi em meu tempo livre. <a href="nothing important/segredo.md">&#10240;</a>
 </p>
 
 ***Read this in [English](README.md)***
@@ -33,8 +33,8 @@ Fique a vontade para ver alguns [projetos]() pessoais que eu desenvolvi em meu t
   
 <div style="display: inline_block;" align="center">
   <a href="https://github.com/pl4g">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&theme=github_dark&include_all_commits=true&border_color=1d63cf"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&theme=github_dark&border_color=1d63cf"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&theme=github_dark&include_all_commits=true&border_color=1d63cf&locale=pt-BR"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&theme=github_dark&border_color=1d63cf&locale=pt-BR"/>
  </a>
 </div>
   
