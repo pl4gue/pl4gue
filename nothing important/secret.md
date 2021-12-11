@@ -9,4 +9,4 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1620544154/36974/minecraft-party-sheep.gif" height="108px">
   <img src="https://emojis.slackmojis.com/emojis/images/1630156975/49121/party_kirby.gif" height="108px">
   <img src="https://emojis.slackmojis.com/emojis/images/1618088251/29200/hyper_bread_party.gif" height="108px">
-    </div
+  </div>
