@@ -1,12 +1,13 @@
-## <div align="center">👋 Yo, I’m ᴘʟ4ɢ_ </div>
+# <div align="center">Hey você me achou! <img src="https://emojis.slackmojis.com/emojis/images/1624040178/45493/partyblob.gif" width="35px"></div>
 
-##### > Putting some Lorem Ipsum in my code.
+##### > Sobre mim
 
-- 🎂 16 Years Old
-- ❤️ Full-Stack Developer.
-- 👨‍🎓 Learning Information Technology.
-- 📄 I’m currently working on my github.io page.
-- 📫 You can contact me by Discord: ᴘʟ4ɢ_#5026
+Me chamo Vinícius Luciano Cardoso, tenho 16 Anos.
+
+Estou cursando meu 2º ano do Ensino Médio Técnico Integrado em Cedup Diomicio Freitas, Tubarão, Santa Catarina (Minha cidade natal)
+Adoro tecnologia no geral, mas programação é onde eu me destaco. Sou aberto a aprender e criar todo tipo de coisas, por exemplo: *sites, aplicativos desktop* e *mobile, jogos eletronicos*, etc.
+
+Fique a vontade para ver alguns [projetos]() pessoais que eu desenvolvi em meu tempo livre.
   
 <div>
 
