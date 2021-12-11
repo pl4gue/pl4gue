@@ -11,7 +11,7 @@ Adoro tecnologia no geral, mas programação é onde eu me destaco. Sou aberto a
 Fique a vontade para ver alguns [projetos]() pessoais que eu desenvolvi em meu tempo livre. <a href="nothing important/segredo.md">&#10240;</a>
 </p>
 
-***Read this in [English](README.md)***
+***Read this in [English](readme.en.md)***
 
 ##
 
