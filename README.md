@@ -1,10 +1,6 @@
 # <div align="center">Hey você me achou! <img src="https://emojis.slackmojis.com/emojis/images/1624040178/45493/partyblob.gif" width="35px"></div>
 
-### FOR ENGLISH READERS: []()
-
-
-##### > Sobre mim <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align='right' width='300px'>
-
+##### > Sobre mim <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align='right' width='295px'>
 
 <p align='left'>
 Me chamo Vinícius Luciano Cardoso, tenho 16 Anos.
@@ -12,22 +8,24 @@ Me chamo Vinícius Luciano Cardoso, tenho 16 Anos.
 Estou cursando meu 2º ano do Ensino Médio Técnico Integrado em Cedup Diomicio Freitas, Tubarão, Santa Catarina (Minha cidade natal)
 Adoro tecnologia no geral, mas programação é onde eu me destaco. Sou aberto a aprender e criar todo tipo de coisas, por exemplo: *sites, aplicativos desktop* e *mobile, jogos eletronicos*, etc.
 
-Fique a vontade para ver alguns [projetos]() pessoais que eu desenvolvi em meu tempo livre.
+Fique a vontade para ver alguns [projetos]() pessoais que eu desenvolvi em meu tempo livre. [&#10240;](README.md)
 </p>
+
+***Read this in [English](README.md)***
 
 ##
 
   ### <div align="center">🧠 Habilidades 🧠</div>
   
-<br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/62525469/145691657-61095b60-2069-4e82-acb9-02c68920228f.png" width="32px">
-  <img src="https://user-images.githubusercontent.com/62525469/145691694-f863ed41-6553-4173-8f44-0171e52f73a2.png" width="32px">
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.png" width="32px">
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php.png" width="32px">
-  <img src="https://user-images.githubusercontent.com/62525469/145691946-8a6b51cd-d7b0-4769-921b-c0e6aba9d5dc.png" width="32px">
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python.png" width="32px">
-
+<!-- HTML5 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32px">    
+&nbsp;<!-- CSS3 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32px">
+&nbsp;<!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32px">
+&nbsp;<!-- PHP --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32px">
+&nbsp;<!-- MySQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32px">
+&nbsp;<!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32px">
+ 
+<br>
 <br>
 <img src="https://thumbs.gfycat.com/MindlessTightIvorybilledwoodpecker-size_restricted.gif"></div>
   
