@@ -11,7 +11,7 @@ I love technology in general, but programming is where I stand out. I'm open to 
 Please feel free to see some personal [projects]() that I developed in my spare time. <a href="nothing important/secret.md">&#10240;</a>
 </p>
 
-***Read this in [English](README.md)***
+***Leia em [Português](README.md)***
 
 ##
 
