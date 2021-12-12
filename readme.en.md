@@ -43,7 +43,7 @@ Please feel free to see some personal [projects]() that I developed in my spare 
   ##### <div align="center">💬 Contact Me 💬</div>
   
   <div align="center">
-    <a href="https://www.linkedin.com/in/vinicius-luciano-cardoso-a67a5a226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/vinicius-luciano-cardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href = "mailto:viniciuslucianocardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a><img src="https://img.shields.io/badge/ᴘʟ4ɢ__%235026-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  </div>
