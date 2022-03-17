@@ -8,7 +8,7 @@ Me chamo Vinícius Luciano Cardoso, tenho 16 Anos.
 Estou cursando meu 3º ano do Ensino Médio Técnico Integrado em Cedup Diomicio Freitas, Tubarão, Santa Catarina (Minha cidade natal).
 Adoro tecnologia no geral, mas programação é onde eu me destaco. Sou aberto a aprender e criar todo tipo de coisas, por exemplo: *sites, aplicativos desktop* e *mobile, jogos eletronicos*, etc.
 
-Fique a vontade para ver alguns [projetos](github.com/pl4g?tab=repositories) pessoais que eu desenvolvi em meu tempo livre. <a href="nothing important/segredo.md">&#10240;</a>
+Fique a vontade para ver alguns [projetos](https://github.com/pl4g?tab=repositories) pessoais que eu desenvolvi em meu tempo livre. <a href="nothing important/segredo.md">&#10240;</a>
 </p>
 
 ***Read this in [English](readme.en.md)***
