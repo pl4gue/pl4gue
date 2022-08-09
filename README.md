@@ -3,7 +3,7 @@
 #### > Sobre mim <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align='right' width='295px'>
 
 <p align='left'>
-Me chamo Vinícius Luciano Cardoso, tenho 16 Anos.
+Me chamo Vinícius Luciano Cardoso, tenho 17 Anos.
 
 Estou cursando meu 3º ano do Ensino Médio Técnico Integrado em Cedup Diomicio Freitas, Tubarão, Santa Catarina (Minha cidade natal).
 Adoro tecnologia no geral, mas programação é onde eu me destaco. Sou aberto a aprender e criar todo tipo de coisas, por exemplo: *sites, aplicativos desktop* e *mobile, jogos eletronicos*, etc.
