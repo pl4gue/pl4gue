@@ -7,7 +7,7 @@ I'm Vinícius Luciano Cardoso, 18 years old.
 
 I love technology in general, but programming is where I stand out. I'm open to learning and creating all kinds of things, for example: *websites, desktop* and *mobile apps, electronic games*, etc.
 
-Please feel free to see some personal [projects]() that I developed in my spare time. <a href="nothing important/secret.md">&#10240;</a>
+Please feel free to see some personal [projects](https://github.com/pl4g?tab=repositories) that I developed in my spare time. <a href="nothing important/secret.md">&#10240;</a>
 </p>
 
 ***Leia em [Português](README.md)***
