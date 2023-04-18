@@ -3,9 +3,8 @@
 ##### > About me <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align='right' width='295px'>
 
 <p align='left'>
-I'm Vinícius Luciano Cardoso, 16 years old.
+I'm Vinícius Luciano Cardoso, 18 years old.
 
-I am attending my 2nd year of Integrated Technical High School in Cedup Diomicio Freitas, Tubarão, Santa Catarina (My hometown).
 I love technology in general, but programming is where I stand out. I'm open to learning and creating all kinds of things, for example: *websites, desktop* and *mobile apps, electronic games*, etc.
 
 Please feel free to see some personal [projects]() that I developed in my spare time. <a href="nothing important/secret.md">&#10240;</a>
