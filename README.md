@@ -12,6 +12,11 @@ Fique a vontade para ver alguns [projetos](https://github.com/pl4g?tab=repositor
 
 ***Read this in [English](readme.en.md)***
 
+ 
+<br>
+<br>
+<div align="center"><img src="https://thumbs.gfycat.com/MindlessTightIvorybilledwoodpecker-size_restricted.gif" height="230em"></div>
+
 ##
 
   ### <div align="center">🧠 Habilidades 🧠</div>
@@ -23,11 +28,8 @@ Fique a vontade para ver alguns [projetos](https://github.com/pl4g?tab=repositor
 &nbsp;<!-- PHP --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32px">
 &nbsp;<!-- MySQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32px">
 &nbsp;<!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32px">
- 
-<br>
-<br>
-<img src="https://thumbs.gfycat.com/MindlessTightIvorybilledwoodpecker-size_restricted.gif" height="230em"></div>
-  
+</div>
+
   ##
   
 <div style="display: inline_block;" align="center">
