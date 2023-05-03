@@ -20,20 +20,18 @@ Fique a vontade para ver alguns [projetos](https://github.com/pl4g?tab=repositor
 ##
   
 ### <div align="center"><img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%20Tech%20Stack%20%F0%9F%9B%A0&align=center&titleAlign=center&showBorder=false&lineCount=1&theme=catppuccin_macchiato&hideBg=true&line1=wip,wip,ffffff;" alt="My Tech Stack"></div>
-
-  ##
-  
-<div style="display: inline_block;" align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=pt-BR"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&bg_color=00000000&text_color=cad3f5&hide_border=true&icon_color=c6a0f6&title_color=8bd5ca&locale=pt-BR"/>
-</div>
-  
-  ##
  
-  ##### <div align="center">💬 Social 💬</div>
+ ### <div align="center">💬 Social 💬</div>
   
   <div align="center">
     <a href="https://www.linkedin.com/in/vinicius-luciano-cardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1e2030?style=for-the-badge&logo=linkedin&logoColor=0A66C2" target="_blank"></a>
      <a href = "mailto:viniciuslucianocardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1e2030?style=for-the-badge&logo=gmail&logoColor=EA4335" target="_blank"></a><br>
      <a><img src="https://img.shields.io/badge/soupboyplague%238285-1e2030?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
  </div>
+  
+ ##
+
+<div style="display: inline_block;" align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=pt-BR"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&bg_color=00000000&text_color=cad3f5&hide_border=true&icon_color=c6a0f6&title_color=8bd5ca&locale=pt-BR"/>
+</div>
