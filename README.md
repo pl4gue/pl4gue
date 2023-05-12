@@ -10,7 +10,7 @@ I love technology in general, but programming is where I stand out. I'm open to 
 Please feel free to see some personal [projects](https://github.com/pl4g?tab=repositories) that I developed in my spare time. <a href="nothing important/secret.md">&#10240;</a>
 </p>
 
-***Leia em [Português](README.md)***
+***Leia em [Português](README.pt.md)***
 
  
 <br>
