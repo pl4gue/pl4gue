@@ -20,7 +20,7 @@ Fique a vontade para ver alguns [projetos](https://github.com/pl4g?tab=repositor
 ##
   
 ### <div align="center">🛠 Tech Stack 🛠</div>
-  <div align="center"><img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%20Tech%20Stack%20%F0%9F%9B%A0&align=center&titleAlign=center&showBorder=false&lineCount=4&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&gap=7&hideBg=true&hideTitle=true&line1=html5,html,auto;css3,css,1572B6;javascript,js,auto;php,php,auto;&line2=csharp,csharp,239120;dotnet,.net,007ACC;&line3=visualstudio,visualstudio,5C2D91;visualstudiocode,vscode,007ACC;neovim,nvim,57A143;&line4=windows,win10,0078D6;" alt="🛠 Tech Stack 🛠" /></div>
+  <div align="center"><img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%20Tech%20Stack%20%F0%9F%9B%A0&align=center&titleAlign=center&showBorder=false&lineCount=4&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&gap=7&hideBg=true&hideTitle=true&line1=html5,html,auto;css3,css,1572B6;javascript,js,auto;php,php,auto;&line2=csharp,csharp,239120;dotnet,.net,5C2D91;&line3=visualstudio,visualstudio,5C2D91;visualstudiocode,vscode,007ACC;neovim,nvim,57A143;&line4=windows,win10,0078D6;" alt="🛠 Tech Stack 🛠" /></div>
  
  ### <div align="center">💬 Social 💬</div>
   
