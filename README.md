@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1624040178/45493/partyblob.gif" width="35px"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&pause=1000&color=85CBC1&center=true&vCenter=true&width=320&height=36&lines=Hey%2C+voc%C3%AA+me+achou!" alt="Typing SVG" /></a></div>
+# <div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1624040178/45493/partyblob.gif" width="35px"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&duration=2000&pause=1000&color=85CBC1&center=true&vCenter=true&width=320&height=36&lines=Hey%2C+voc%C3%AA+me+achou!" alt="Typing SVG" /></a></div>
 
 #### > Sobre mim <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align='right' width='295px'>
 
