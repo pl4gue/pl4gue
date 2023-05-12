@@ -33,6 +33,6 @@ Please feel free to see some personal [projects](https://github.com/pl4g?tab=rep
  ##
 
 <div style="display: inline_block;" align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=pt-BR"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&bg_color=00000000&text_color=cad3f5&hide_border=true&icon_color=c6a0f6&title_color=8bd5ca&locale=pt-BR"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&bg_color=00000000&text_color=cad3f5&hide_border=true&icon_color=c6a0f6&title_color=8bd5ca"/>
 </div>
