@@ -10,7 +10,7 @@ Adoro tecnologia no geral, mas programação é onde eu me destaco. Sou aberto a
 Fique a vontade para ver alguns [projetos](https://github.com/pl4g?tab=repositories) pessoais que eu desenvolvi em meu tempo livre. <a href="nothing important/segredo.md">&#10240;</a>
 </p>
 
-***Read this in [English](readme.en.md)***
+***Read this in [English](README.md)***
 
  
 <br>
