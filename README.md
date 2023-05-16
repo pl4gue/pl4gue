@@ -1,6 +1,6 @@
 # <div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1624040178/45493/partyblob.gif" width="35px"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&duration=2000&pause=1000&color=85CBC1&center=true&vCenter=true&width=320&height=36&lines=Hey%2C+you+found+me!" alt="Typing SVG" /></a></div>
 
-#### > About me <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align='right' width='295px'>
+#### > About me <img src="https://github.com/pl4g/pl4g/assets/62525469/ff4caaf1-1b9f-4cff-8b51-54c4d1d3c816" align='right' width='295px'>
 
 <p align='left'>
 I'm Vinícius Luciano Cardoso, 18 years old.
@@ -15,6 +15,7 @@ Please feel free to see some personal [projects](https://github.com/pl4g?tab=rep
  
 <br>
 <br>
+
 <div align="center"><img src="https://thumbs.gfycat.com/MindlessTightIvorybilledwoodpecker-size_restricted.gif" height="230em"></div>
 
 ##
@@ -36,3 +37,9 @@ Please feel free to see some personal [projects](https://github.com/pl4g?tab=rep
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&bg_color=00000000&text_color=cad3f5&hide_border=true&icon_color=c6a0f6&title_color=8bd5ca&locale=en"/>
 </div>
+
+##
+
+### <div align="center">_"Cool Quote"_</div>
+
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato"></div>
