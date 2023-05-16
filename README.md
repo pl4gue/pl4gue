@@ -33,9 +33,18 @@ Feel free to see some personal [projects](https://github.com/pl4g?tab=repositori
   
  ##
 
-<div style="display: inline_block;" align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&bg_color=00000000&text_color=cad3f5&hide_border=true&icon_color=c6a0f6&title_color=8bd5ca&locale=en"/>
+<div align="center">
+<picture>
+<source srcset="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en" media="(prefers-color-scheme: dark)"/>
+<source srcset="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=4c4f69&icon_color=8839ef&title_color=179299&locale=en" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true"/>
+</picture>
+ 
+ <picture>
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en" media="(prefers-color-scheme: dark)"/>
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&bg_color=00000000&hide_border=true&text_color=4c4f69&icon_color=8839ef&title_color=179299&locale=en" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true"/>
+</picture>
 </div>
 
 ##
