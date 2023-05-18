@@ -5,7 +5,7 @@
 <p align="center"><samp>Vinicius Luciano Cardoso • 18 yo</samp></p>
 <br>
 <p align='left'><samp><picture><img src="https://tenor.com/view/ghibl-soup-food-anime-studio-ghibli-gif-20600057.gif" align='right' height='175px'></picture><br>
-I love technology in general, but programming is where I stand out.
+I love technology in general, but programming is where I stand out.<br>
 I'm open to learning and creating all kinds of technologies.</samp>
 
 <samp>Feel free to see some personal [projects](https://github.com/pl4g?tab=repositories) that I develop in my spare time.[&#10240;](https://github.com/pl4g/pl4g/blob/main/nothing%20important/secret.md)</samp>
