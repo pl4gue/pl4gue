@@ -50,7 +50,7 @@ I'm open to learning and creating all kinds of technologies.</samp>
 	
 <br>
 
-<details><summary><p align="center">ᨐฅ</p></summary>
+<details><summary><p align="center">ฅ^•⩊•^ฅ</p></summary>
 <br>
 <div align="center">
 █▀▀ █▀█ █▀█ █░░   ▄▀█ █▀ █▀▀ █ █   █▀▀ ▄▀█ ▀█▀  <br>
