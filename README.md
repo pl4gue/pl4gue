@@ -8,7 +8,7 @@
 <samp>I love technology in general, but programming is where I stand out.<br>
 I'm open to learning and creating all kinds of technologies.</samp>
 
-<samp>Feel free to see some personal [projects](https://github.com/pl4g?tab=repositories) that I develop in my spare time.[&#10240;](https://github.com/pl4g/pl4g/blob/main/nothing%20important/secret.md)</samp>
+<samp>Feel free to see some [projects](https://github.com/pl4g?tab=repositories) that I develop in my spare time.[&#10240;](https://github.com/pl4g/pl4g/blob/main/nothing%20important/secret.md)</samp>
 </p>
 
 ***<samp>Leia em [Português](README.pt.md)</samp>***
