@@ -8,7 +8,7 @@
 <samp>Adoro tecnologia no geral, mas programação é onde eu me destaco.<br>
 Sou aberto a aprender e criar todo tipo de tecnologia.</samp>
 
-<samp>Sinta-se lívre para ver alguns [projetos](https://github.com/pl4g?tab=repositories) pessoais que eu desenvolvo em meu tempo livre. <a href="nothing important/segredo.md">&#10240;</a>
+<samp>Sinta-se lívre para ver alguns [projetos](https://github.com/pl4g?tab=repositories) que eu desenvolvo em meu tempo livre. <a href="nothing important/segredo.md">&#10240;</a>
 </samp>
 </p>
 
