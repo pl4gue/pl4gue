@@ -17,7 +17,7 @@ I'm open to learning and creating all kinds of technologies.</samp>
 
 <p align="center">
   <samp>
-    [<a href="https://discord.com/">plague#8408</a>] •
+    [<a href="https://discord.com/">plague🥣#8408</a>] •
     [<a href="https://instagram.com/soupboyplague">instagram</a>] •
     [<a href="mailto:viniciuslucianocardoso@gmail.com">e-mail</a>]
   </samp>
