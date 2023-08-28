@@ -1,4 +1,4 @@
-d<div align="center"><picture><img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Iosevka&size=24&pause=1000&color=85CBC1&vCenter=true&width=435&lines=%E1%A8%90%E0%B8%85+Hey%2C+you+found+me!+%E2%8B%86%EF%BD%A1%EF%BE%9F%E2%98%81%EF%B8%8E%EF%BD%A1%E2%8B%86%EF%BD%A1+%EF%BE%9F%E2%98%BE+%EF%BE%9F%EF%BD%A1%E2%8B%86" alt="Typing SVG"></picture></div>
+<div align="center"><picture><img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Iosevka&size=24&pause=1000&color=85CBC1&vCenter=true&width=435&lines=%E1%A8%90%E0%B8%85+Hey%2C+you+found+me!+%E2%8B%86%EF%BD%A1%EF%BE%9F%E2%98%81%EF%B8%8E%EF%BD%A1%E2%8B%86%EF%BD%A1+%EF%BE%9F%E2%98%BE+%EF%BE%9F%EF%BD%A1%E2%8B%86" alt="Typing SVG"></picture></div>
 
 <br>
  
