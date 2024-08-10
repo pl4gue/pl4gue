@@ -8,7 +8,7 @@
 <samp>I love technology in general, but programming is where I stand out.<br>
 I'm open to learning and creating all kinds of technologies.</samp>
 
-<samp>Feel free to see some [projects](https://github.com/pl4g?tab=repositories) that I develop in my spare time.[&#10240;](https://github.com/pl4g/pl4g/blob/main/nothing%20important/secret.md)</samp>
+<samp>Feel free to see some [projects](https://github.com/pl4gue?tab=repositories) that I develop in my spare time.[&#10240;](https://github.com/pl4gue/pl4gue/blob/main/nothing%20important/secret.md)</samp>
 </p>
 
 ***<samp>Leia em [Português](README.pt.md)</samp>***
@@ -28,15 +28,15 @@ I'm open to learning and creating all kinds of technologies.</samp>
 <div align="center">
 <table><tr><td>
  <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=4c4f69&icon_color=8839ef&title_color=179299&locale=en" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=pl4gue&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=pl4gue&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&text_color=4c4f69&icon_color=8839ef&title_color=179299&locale=en" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4gue&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true"/>
  </picture>
  
  <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4g&layout=compact&langs_count=7&bg_color=00000000&hide_border=true&text_color=4c4f69&icon_color=8839ef&title_color=179299&locale=en" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=pl4g&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4gue&layout=compact&langs_count=7&bg_color=00000000&hide_border=true&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pl4gue&layout=compact&langs_count=7&bg_color=00000000&hide_border=true&text_color=4c4f69&icon_color=8839ef&title_color=179299&locale=en" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img loading="lazy" height="161em" src="https://github-readme-stats.vercel.app/api?username=pl4gue&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true"/>
 </picture>
  </td></tr>
 </table>
