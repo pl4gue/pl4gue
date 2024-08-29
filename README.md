@@ -2,10 +2,10 @@
 
 <br>
  
-<p align="center"><samp>Vinicius Luciano Cardoso • 18 yo</samp></p>
+<p align="center"><samp>Vinicius Luciano Cardoso • 19 yo</samp></p>
 <br>
 <p align='left'><picture><img loading="lazy" src="https://media.tenor.com/_0uh2Jleh-0AAAAC/ghibl-soup.gif" align='right' height='175px'></picture><br>
-<samp>I love technology in general, but programming is where I stand out.<br>
+<samp>I love technology in general, but programming and computer science is where I stand out.<br>
 I'm open to learning and creating all kinds of technologies.</samp>
 
 <samp>Feel free to see some [projects](https://github.com/pl4gue?tab=repositories) that I develop in my spare time.[&#10240;](https://github.com/pl4gue/pl4gue/blob/main/nothing%20important/secret.md)</samp>
