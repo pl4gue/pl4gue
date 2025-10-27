@@ -2,7 +2,7 @@
 
 <br>
  
-<p align="center"><samp>Vinicius Luciano Cardoso • 20 yo</samp></p>
+<p align="center"><samp>Vinícius Luciano Cardoso • 20 yo</samp></p>
 <br>
 <p align='left'><picture><img loading="lazy" src="https://media.tenor.com/_0uh2Jleh-0AAAAC/ghibl-soup.gif" align='right' height='175px'></picture><br>
 <samp>I love technology in general, but programming and computer science is where I stand out.<br>
